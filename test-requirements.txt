@@ -1,0 +1,1 @@
+odoo-addon-sale_commercial_partner @ git+https://github.com/OCA/sale-workflow.git@refs/pull/3415/head#subdirectory=sale_commercial_partner
